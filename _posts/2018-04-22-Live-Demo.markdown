@@ -7,5 +7,5 @@ tags: featured
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 ---
 
-<iframe width="560" height="315" src="//www.youtube.com/watch?v=a_5dKE140d0" frameborder="0"> </iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/a_5dKE140d0" frameborder="0"> </iframe>
 
