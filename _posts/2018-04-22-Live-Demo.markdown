@@ -7,10 +7,12 @@ tags: featured
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 ---
 
+## Live Demo
+
 Below is a video demo of the website in action!
-
+<br><br>
 <iframe width="560" height="315" src="//www.youtube.com/embed/a_5dKE140d0" frameborder="0"> </iframe>
-
+<br><br><br>
 We will cover this website in the following aspects:
 
 - User favorite Setups.
