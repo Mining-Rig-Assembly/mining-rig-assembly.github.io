@@ -7,5 +7,16 @@ tags: featured
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 ---
 
+Below is a video demo of the website in action!
+
 <iframe width="560" height="315" src="//www.youtube.com/embed/a_5dKE140d0" frameborder="0"> </iframe>
 
+We will cover this website in the following aspects:
+
+- User favorite Setups.
+- How to customize your own Setup components (Add & Delete & Info).
+- Subscription 
+	- Clicking this "Subscription" button will send notifications once a week to remind you the payback peroid via email.
+- Setup visualization
+	- Comparison of total price and payback period between Setup components.
+	- Comparison of total price and attributes of particular parts of Setups.
