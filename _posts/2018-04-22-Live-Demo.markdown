@@ -3,7 +3,7 @@ layout: post
 title:  "Live Demo"
 date:   2018-04-22 22:30:25
 categories: Demo
-tags: Introduction
+tags: featured
 image: /assets/article_images/2014-08-29-welcome-to-jekyll/desktop.JPG
 ---
 
