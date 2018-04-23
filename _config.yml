@@ -4,7 +4,7 @@ gems:
   - jekyll-paginate
 
 # Site settings
-title: "Mediator"
+title: "Mining-Rig-Assembly"
 description: > # this means to ignore newlines until "email:"
    Course Project in CS411 - Database Systems in 2018 Spring, UIUC
 
@@ -16,13 +16,13 @@ float_logo: true # true, false (default)
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'MRA'
-author: 'MRA'
+name: 'Mining-Rig-Assembly'
+author: 'Mining-Rig-Assembly'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+# url: "http://myblog.***.***" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
 # twitter_handle: '@dirkfabisch'
